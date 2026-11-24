@@ -8,11 +8,11 @@
 
 **Taste the Fire** - Premium Steaks • Gourmet Burgers • Stuffed Chicken · 100% Halal
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=steakboxpk.com&color=E10600&style=for-the-badge&logo=google-chrome&logoColor=white)](https://steakboxpk.com)
-[![Phone](https://img.shields.io/static/v1?label=Phone&message=%2B92%20300%200404869&color=111111&style=for-the-badge&logo=phone&logoColor=white)](tel:+923000404869)
-[![WhatsApp](https://img.shields.io/static/v1?label=WhatsApp&message=Chat%20Now&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923000404869)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%40steakboxpk&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steakboxpk/)
-[![Location](https://img.shields.io/static/v1?label=Location&message=Gulberg%203%2C%20Lahore&color=FFD100&style=for-the-badge)](https://steakboxpk.com)
+<a href="https://steakboxpk.com"><img src="https://img.shields.io/badge/Website-steakboxpk.com-E10600?style=for-the-badge" alt="Website"/></a>
+<a href="tel:+923000404869"><img src="https://img.shields.io/badge/Phone-0300_0404869-111111?style=for-the-badge" alt="Phone"/></a>
+<a href="https://wa.me/923000404869"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge" alt="WhatsApp"/></a>
+<a href="https://www.instagram.com/steakboxpk/"><img src="https://img.shields.io/badge/Instagram-steakboxpk-E4405F?style=for-the-badge" alt="Instagram"/></a>
+<a href="https://steakboxpk.com"><img src="https://img.shields.io/badge/Location-Gulberg_3,_Lahore-FFD100?style=for-the-badge" alt="Location"/></a>
 
 </div>
 
